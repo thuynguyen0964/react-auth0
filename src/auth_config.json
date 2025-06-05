@@ -1,0 +1,5 @@
+{
+  "domain": "day-weaver.us.auth0.com",
+  "clientId": "S33ibSRAskHMc5hPvtXCTMR3VGiAIfWk",
+  "audience": "{yourApiIdentifier}"
+}
